@@ -29,7 +29,7 @@ import {
 
 const PROJECTS = [
   {
-    title: "IPTV Player App",
+    title: "BELIVE TV",
     description: "Pemutar IPTV modern yang dibuat dengan Sketchware Pro. Mendukung ExoPlayer dan DRM (Digital Rights Management) untuk streaming yang aman dan lancar.",
     icon: <Monitor className="w-6 h-6 text-cyan-400" />,
     tech: ["Sketchware Pro", "Java", "ExoPlayer", "DRM"],
